@@ -1,0 +1,5 @@
+1 |       anjali       | 8/4/1975 7:34:05 PM |       stress reife       |       anxiety       
+2 |      Mehta      | 8/4/1978 7:41:50 PM |      VomitingBP: 125/83T: 89RR: 15HR:90      |      Abdominal Pain      
+5 |   Rutvi   | 8/6/1999 2:54:10 PM |   NauseaBP: 120/80HR:89T:98RR: 18   |   Anxiety   
+4 |  Heta  | 8/22/1998 11:32:19 AM |  NauseaBP: 120/82HR: 84T: 89RR: 15  |  Headche  
+5 | Mehta saheb | 8/22/1985 4:15:45 PM | BP: 125/85HR: 88T: 85RR: 14 | Abdominal pain 

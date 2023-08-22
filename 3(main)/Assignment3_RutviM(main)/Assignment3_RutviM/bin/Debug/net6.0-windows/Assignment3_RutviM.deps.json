@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment3_RutviM/1.0.0": {
+        "dependencies": {
+          "ClinicalNote": "1.0.0.0"
+        },
+        "runtime": {
+          "Assignment3_RutviM.dll": {}
+        }
+      },
+      "ClinicalNote/1.0.0.0": {
+        "runtime": {
+          "ClinicalNote.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment3_RutviM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClinicalNote/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

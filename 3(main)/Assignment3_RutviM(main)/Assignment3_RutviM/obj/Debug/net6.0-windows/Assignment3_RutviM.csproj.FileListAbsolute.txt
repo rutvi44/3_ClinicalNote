@@ -1,0 +1,40 @@
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.exe
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.deps.json
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.runtimeconfig.json
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.dll
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.pdb
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\ClinicalNote.dll
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\bin\Debug\net6.0-windows\ClinicalNote.pdb
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.Form1.resources
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.CopyComplete
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.dll
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\refint\Assignment3_RutviM.dll
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.pdb
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\Assignment3_Rutvi\Assignment3_RutviM\Assignment3_RutviM\obj\Debug\net6.0-windows\ref\Assignment3_RutviM.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.deps.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.runtimeconfig.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\Assignment3_RutviM.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\ClinicalNote.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\bin\Debug\net6.0-windows\ClinicalNote.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.Form1.resources
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.GenerateResource.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.AssemblyInfoInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.AssemblyInfo.cs
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.csproj.CopyComplete
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\refint\Assignment3_RutviM.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\Assignment3_RutviM.genruntimeconfig.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Assignment\Assignment 3\3(main)\Assignment3_RutviM(main)\Assignment3_RutviM\obj\Debug\net6.0-windows\ref\Assignment3_RutviM.dll
